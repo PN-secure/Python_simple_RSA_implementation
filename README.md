@@ -1,7 +1,7 @@
 # RSA Implementation in Python
 
 ## Overview
-This is a Python implementation of the RSA cryptographic algorithm, including key generation, encryption, decryption, signing, and verification. The implementation uses the Miller-Rabin primality test to generate large prime numbers securely.
+This is a Python implementation of the RSA cryptographic algorithm, including key generation, encryption, decryption. The implementation uses the Miller-Rabin primality test to generate large prime numbers securely.
 
 ## Features
 - Secure random prime generation using Miller-Rabin primality test
