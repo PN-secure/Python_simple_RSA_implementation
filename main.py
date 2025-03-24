@@ -118,7 +118,3 @@ class RSA:
         else:
             return False
 
-rsa = RSA()
-print(rsa.validate())
-
-print(generate_number_sec(2 ** 2048,2 ** 4096)) 
