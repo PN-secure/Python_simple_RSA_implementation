@@ -1,5 +1,5 @@
 import secrets
-import time
+
 
 def generate_number_sec(lower_bound,upper_bound,exl = set()):
     while True:
